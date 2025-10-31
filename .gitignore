@@ -1,0 +1,29 @@
+# Maven / Java
+target/
+*.iml
+*.class
+*.log
+hs_err_pid*
+*.jar
+
+# IDEs
+.vscode/
+.idea/
+*.ipr
+*.iws
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Build cache
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs / DB / Salidas
+logs/
+output/
+database/*.db
+
+# Archivos temporales
+*.tmp
+*.swp
